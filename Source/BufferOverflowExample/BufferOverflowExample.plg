@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BufferOverflowExample - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\AAADDR~1\AppData\Local\Temp\RSP3ED4.tmp" with contents
+[
+/nologo /G3 /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/BufferOverflowExample.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Users\aaaddress1\Desktop\NTUSTxTDOH_Game\BufferOverflowExample\BufferOverflowExample.cpp"
+]
+Creating command line "cl.exe @C:\Users\AAADDR~1\AppData\Local\Temp\RSP3ED4.tmp" 
+Creating temporary file "C:\Users\AAADDR~1\AppData\Local\Temp\RSP3ED5.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /entry:"MyMain" /subsystem:console /pdb:none /machine:I386 /out:"Release/BufferOverflowExample.exe" 
+.\Release\BufferOverflowExample.obj
+.\Release\StdAfx.obj
+.\Release\Resource.res
+]
+Creating command line "link.exe @C:\Users\AAADDR~1\AppData\Local\Temp\RSP3ED5.tmp"
+<h3>Output Window</h3>
+Compiling...
+BufferOverflowExample.cpp
+Linking...
+LINK : warning LNK4078: multiple ".text" sections found with different attributes (40000040)
+LINK : warning LNK4078: multiple ".text" sections found with different attributes (C0000040)
+LINK : warning LNK4078: multiple ".data" sections found with different attributes (60000020)
+
+
+
+<h3>Results</h3>
+BufferOverflowExample.exe - 0 error(s), 3 warning(s)
+</pre>
+</body>
+</html>

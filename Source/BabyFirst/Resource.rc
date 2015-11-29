@@ -1,0 +1,75 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (Taiwan) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_TRADITIONAL
+#pragma code_page(950)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_STRING1             "             .  .   .  .:               \n         ~ .8D88+++++I8888 .            \n         88?++ZZZZZZZZZ++++88 .N        \n     I 88+77???ZZZZZZZZZ+++++Z8.        \n     .8+?ZZ????ZZ???$ZZZZZ7??$+88.8     \n   ..8+ZZZZ???ZZ$???$ZZZZ$????Z?+8.$    \n  O.8+????$ZZZZZZZZZZZZZZ$????ZZ$+8.8   \n   8+$????ZZZZZZZZZZZ???ZZZZ$ZI7Z7+8    \n 8 8+$???7ZZZZZZZZZZ?????ZZZZ$??7Z+8.~  \n  7+IZZZZZZZ???7ZZZZ7???7ZZZZZ??IZ$+D   \n  8+$ZZZZZZ$????ZZZZZ$$ZZZZZZZ$?ZZZ+8   \n  I8+ZZZZZZZ????ZZZZZZZZZZZZZZZZZZ++8   \n   .8I+++++++++++++++++++++++++++I8.    \n     ....IO888888888888888?.......      \n             III7777777IIO              \n             ZIIIIIIIIIIIZ.             \n             ZIIIIIIIIIIII.8            \n            .ZIIIIIIIIIIII$             \n           ..IIIIIIIIIIIIIO.            \n           .OIIIIIIIIIIIIII.=           \n            OIIIIIIIIIIIII7.~           \n            .~O7IIIIIIII7O..            \n                 .. ....                "
+    IDS_STRING2             "######     #    ######  #     #    ####### ###                     \n#     #   # #   #     #  #   #     #       ### #####   ####  ##### \n#     #  #   #  #     #   # #      #       ### #    # #        #   \n######  #     # ######     #       #####    #  #    #  ####    #   \n#     # ####### #     #    #       #           #####       #   #   \n#     # #     # #     #    #       #       ### #   #  #    #   #   \n######  #     # ######     #       #       ### #    #  ####    #   "
+END
+
+#endif    // Chinese (Taiwan) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
