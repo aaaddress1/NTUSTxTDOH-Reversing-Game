@@ -14,7 +14,7 @@ void Welcome()
 int MyMain()
 {
 	Welcome();
-	unsigned long checksum[2] = {-1,-1};// = "RIP=wooo";
+	unsigned long checksum[2] = {-1,-1};
 	char KEY[8];
 	printf("REVO WOLF!\n");
     printf("Give me your key and overflooooooooooow it,\nI'll Check it.\n");
